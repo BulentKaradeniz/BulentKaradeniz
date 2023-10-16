@@ -1,4 +1,4 @@
-[![MasterHead](https://www.outsourcing-pharma.com/var/wrbm_gb_food_pharma/storage/images/_aliases/wrbm_large/3/3/9/5/4155933-2-eng-GB/Biomedical-Systems-partners-with-RadMD-to-enhance-imaging-capabilities.jpg)
+[![MasterHead](https://blogs.sas.com/content/sgf/files/2019/05/AnylticsProcesModal.png)
 <h1 align="center">Hi 👋, I'm Bulent Karadeniz</h1>
 <h3 align="center">A passionate Data Science from Turkey</h3>
 
