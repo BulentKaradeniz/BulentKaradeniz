@@ -1,7 +1,7 @@
 [![MasterHead](https://blogs.sas.com/content/sgf/files/2019/05/AnylticsProcesModal.png)
 <h1 align="center">Hi 👋, I'm Bulent </h1>
 <h3 align="center">A passionate Data Science from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="https://lh6.googleusercontent.com/-RpkWUZV1vTM/Tj42JcIKUJI/AAAAAAAABZI/K8ltzv7woxs/MRI-animation.gif">
+<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/93aadb19385c9a78c25575442382e96e/tumblr_mokddk00s11qzcf71o1_400.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bulentkaradeniz&label=Profile%20views&color=0e75b6&style=flat" alt="bulentkaradeniz" /> </p>
 
