@@ -1,4 +1,4 @@
-[![MasterHead](https://blogs.sas.com/content/sgf/files/2019/05/AnylticsProcesModal.png)
+[![MasterHead](https://mag.uchicago.edu/sites/default/files/22Winter_Golus_Lies-damned-lies-and-data.gif)
 <h1 align="center">Hi 👋, I'm Bulent </h1>
 <h3 align="center">A passionate Data Science from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/93aadb19385c9a78c25575442382e96e/tumblr_mokddk00s11qzcf71o1_400.gif">
