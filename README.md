@@ -14,8 +14,8 @@
 - 💞️ I’m looking to collaborate on Data Science.
 - 📫 How to reach me **bulentkaradeniz61@gmail.com**
 
-- ⚡ Fun fact **I play authentic kemence**
-- ⚡ Bad fact ** I should write this, I opened this github account 1 year ago, after creating a lot of repos I started using git desktop. Due to some confusion I emptied my repo and wanted to continue with a new correct name. I reorganized it and started uploading repos in a new way. Unfortunately I saw that my past activities were deleted. I wanted to share it. **
+- ⚡ Fun  **I play authentic kemence**
+- ⚡ Bad  ** I should write this, I opened this github account 1 year ago, after creating a lot of repos I started using git desktop. Due to some confusion I emptied my repo and wanted to continue with a new correct name. I reorganized it and started uploading repos in a new way. Unfortunately I saw that my past activities were deleted. I wanted to share it. **
 
 
 <h3 align="left">Connect with me:</h3>
