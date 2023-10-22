@@ -14,10 +14,14 @@
 - 💞️ I’m looking to collaborate on Data Science.
 - 📫 How to reach me **bulentkaradeniz61@gmail.com**
 
-- ⚡ Fun  **I play authentic kemence**
+- ⚡ Fun  ** I play authentic kemence **
 - ⚡ Bad  ** I should write this, I opened this github account 1 year ago, after creating a lot of repos I started using git desktop. Due to some confusion I emptied my repo and wanted to continue with a new correct name. I reorganized it and started uploading repos in a new way. Unfortunately I saw that my past activities were deleted. I wanted to share it. **
-
-
+- ⚡ ["  Santiago   from Paulo Coelho's book ( Alchemist ) " ]
+      Santiago = 'Bulent_Karadeniz'
+      dict = { "nick_name : "Santiago ",
+               "target": "Data Science",
+                "stage": "Loading" }
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bulentkaradeniz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bulentkaradeniz" height="30" width="40" /></a>
