@@ -16,11 +16,8 @@
 
 - ⚡ Fun  ** I play authentic kemence **
 - ⚡ Bad  ** I should write this, I opened this github account 1 year ago, after creating a lot of repos I started using git desktop. Due to some confusion I emptied my repo and wanted to continue with a new correct name. I reorganized it and started uploading repos in a new way. Unfortunately I saw that my past activities were deleted. I wanted to share it. **
-- ⚡ ["  Santiago   from Paulo Coelho's book ( Alchemist ) " ]
-      Santiago = 'Bulent_Karadeniz'
-      dict = { "nick_name : "Santiago ",
-               "target": "Data Science",
-                "stage": "Loading" }
+- ⚡ ["  Santiago   from Paulo Coelho's book ( Alchemist ) " ] 
+
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
