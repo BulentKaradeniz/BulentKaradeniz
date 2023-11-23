@@ -7,10 +7,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bulentkaradeniz&label=Profile%20views&color=0e75b6&style=flat" alt="bulentkaradeniz" /> </p>
 
-- 🌱 I have a bachelor's and master's degree in biology.I started my PhD in biomedical field.
-- 👀 My research interests are Data Science, Machine Learning, and Deep Learning / (Image processing- Computer vision).
-- 👀 I want to gain a multidisciplinary structure with additional data science in my profession.
-- 🌱 I have 1+ years of experience in data science.
+- 🌱 I have 1+ years of experience in data science. I worked as a remote intern data analyst at a USA based company called oneamz.
+- 🌱 During this time, I took many paid and free online trainings on data science, machine learning, deep learning, python programming, PostgreSQL, PowerBI, Tableau.
+- 🌱 During these trainings, in addition to the work I did in the company, I took part in educational projects as an individual and team member.   
+- 🌱 I have knowledge in Biology, Molecular Biology, Biomedicine and Protein Chemistry. From an academic background.
+- 👀 My research interests are Data Science, Health Science
+- 👀 I want to gain a multidisciplinary structure with additional data science in my profession. 
 - 💞️ I’m looking to collaborate on Data Science.
 - 📫 How to reach me **bulentkaradeniz61@gmail.com**
 
