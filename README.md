@@ -1,4 +1,4 @@
-[![MasterHead](https://uwo.ca/sci/datascience/img/Placeholders/Data%20Science%20Slide.jpg)](https://my-new-web-site-hfkz984nx-blacksea4561.vercel.app/)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*1oVjIRY3Bnmbw-idCtg4BQ@2x.jpeg)](https://my-new-web-site-hfkz984nx-blacksea4561.vercel.app/)
 
 
 <h1 align="center">Hi 👋, I'm Bulent </h1>
