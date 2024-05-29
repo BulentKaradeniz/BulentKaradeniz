@@ -7,17 +7,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bulentkaradeniz&label=Profile%20views&color=0e75b6&style=flat" alt="bulentkaradeniz" /> </p>
 
-- 🌱 I have 1+ years of experience in data science. I worked as a remote intern data analyst at a USA based company called oneamz.
-- 🌱 During this time, I took many paid and free online trainings on data science, machine learning, deep learning, python programming, PostgreSQL, PowerBI, Tableau.
-- 🌱 During these trainings, in addition to the work I did in the company, I took part in educational projects as an individual and team member.   
-- 🌱 I have knowledge in Biology, Molecular Biology, Biomedicine and Protein Chemistry. From an academic background.
-- 👀 My research interests are Data Science, Health Science
+
+- 🌱 During this time, I took many paid and free online trainings on data science, machine learning, deep learning, python programming, PostgreSQL, PowerBI, and Tableau.
+- 🌱 During these trainings, in addition to the work I did in the company, I participated in educational projects as an individual and team member.   
+- 👀 My research interests are Data Science
 - 👀 I want to gain a multidisciplinary structure with additional data science in my profession. 
 - 💞️ I’m looking to collaborate on Data Science.
 - 📫 How to reach me **bulentkaradeniz61@gmail.com**
 
-- ⚡ Fun  ** I play authentic kemence **
-- ⚡ Bad  ** I should write this, I opened this github account 1 year ago, after creating a lot of repos I started using git desktop. Due to some confusion I emptied my repo and wanted to continue with a new correct name. I reorganized it and started uploading repos in a new way. Unfortunately I saw that my past activities were deleted. I wanted to share it. **
+  
+- ⚡ Bad  ** I should write this, I opened this GitHub account 1 year ago, after creating a lot of repos I started using git desktop. Due to some confusion I emptied my repo and wanted to continue with a new correct name. I reorganized it and started uploading repos in a new way. Unfortunately, I saw that my past activities were deleted. I wanted to share it. **
 - ⚡ ["  Santiago   from Paulo Coelho's book ( Alchemist ) " ] 
 
  
